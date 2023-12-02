@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abdelrahman Mohamed Amir</h1>
-<h3 align="center">A passionate Embedded linux engineer from Egypt</h3>
+<h3 align="center">A passionate Embedded Linux Engineer from Egypt</h3>
 
-- 🔭 I’m currently working on **Yocto Project**
+- 🔭 I’m currently working on **Embedded Linux Project Using Yocto**
 
 - 📫 How to reach me **a.amiiir1297@gmail.com**
 
